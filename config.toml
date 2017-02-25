@@ -2,6 +2,7 @@ title = "EllinaKuznetcova"
 description = "Description"
 baseurl = "https://ellinakuznetcova.gitlab.io/"
 languageCode = "en-us"
+theme = "dimension"
 
 [Params]
 	title = "Ellina Kuznetcova"
