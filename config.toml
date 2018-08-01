@@ -1,62 +1,48 @@
-title = "EllinaKuznetcova"
-description = "Description"
-baseurl = "https://ellinakuznetcova.gitlab.io/"
+baseurl = "https://ellinakuznetcova.github.io"
 languageCode = "en-us"
-theme = "hugo-identity-theme"
+theme = "hugo-goa"
+author = "Ellina Kuznetcova"
+title = "Ellina Kuznetcova"
 
 enableRobotsTXT = true
 googleAnalytics = "UA-102087913-1"
 
+## Site Settings
 [params]
-	[params.personal]
-		name = "Ellina Kuznetcova"
-		position = "iOS developer"
-		avatar = "avatar.png"
+author = "Ellina Kuznetcova"
+intro = "Software Developer"
+description = "iOS development"
+authorimage = "avatar.jpeg"
+dateformat = "Jan 2, 2006"
 
-    [[params.social]]
-	    title = "Twitter"
-	    icon = "fa-twitter"
-	    link = "https://twitter.com/lillu_ellu"
+## Site Meta Settings
+[params.meta]
+description = "Ellina Kuznetcova Software Development"
+keywords = "iOS,Swift,Objective-C,software development,developer"
 
-	[[params.social]]
-	    title = "Instagram"
-	    icon = "fa-instagram"
-	    link = "https://www.instagram.com/lilluellu/"
-	
-	[[params.social]]
-	    title = "Github"
-	    icon = "fa-github"
-	    link = "https://github.com/EllinaKuznetcova"
+## Social Accounts
+[params.social]
+github = "EllinaKuznetcova"
+instagram = "lilluellu"
+medium = "ellinakuznetcova"
+linkedin = "ellinakuznetcova"
+twitter = "lilluellu"
+email = "ellina09.19@gmail.com"
+resume = "Ellina%20Kuznetcova%27s%20CV.pdf"
 
-	[[params.social]]
-		title = "LinkedIn"
-		icon = "fa-linkedin"
-		link = "https://www.linkedin.com/in/ellinakuznetcova"
+## Extras
+[params.extra]
+copyright = ""
+poweredby = true
+highlightjs = true
 
-	[[params.social]]
-		title = "email"
-		icon = "fa-envelope-o"
-		link = "mailto:ellina09.19@gmail.com"
+## Main Menu
+[[menu.main]]
 
-	[[params.social]]
-		title = "cv"
-		icon = "fa-info"
-		link = "Ellina Kuznetcova's CV.pdf"
-
-	# Footer settings
-	[params.footer]
-	# If copyright is not set, author is used
-	copyright = "Ellina Kuznetcova"
-
-	# Page license
-	[params.license]
-	#link = "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
-	#name = "CC-BY-SA-4.0"
-
-	# Credits
-	#[[params.credits]]
-	# Title is used as URL text
-	#title = "HTML5UP"
-	# Text will be used to explain the credit
-	#text = "Design by"
-	#link = "https://html5up.net"
+# Credits
+#[[params.credits]]
+# Title is used as URL text
+#title = "HTML5UP"
+# Text will be used to explain the credit
+#text = "Design by"
+#link = "https://html5up.net"
