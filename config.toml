@@ -10,24 +10,25 @@ googleAnalytics = "UA-102087913-1"
 ## Site Settings
 [params]
 author = "Ellina Kuznetcova"
-intro = "Software Developer"
-description = "iOS development"
+intro = "Software Developer with focus on iOS"
+description = "Over the last 5 years I've been developing various **iOS applications** with an addition of backend using **Ruby on Rails**. I am a constant explorer of various tech fields and a strong believer that this knowledge will make you a better programmer.<br/><br/> For more details on my experience please check out my [CV in pdf](Ellina%20Kuznetcova%27s%20CV.pdf).<br/><br/> Feel free to follow me [@ellinacodes](https://twitter.com/ellinacodes) or send me an [email](mailto:ellina09.19@gmail.com)."
 authorimage = "avatar.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Software Developer"
-keywords = "iOS,Swift,Objective-C,software development,developer"
+description = "Ellina Kuznetcova"
+keywords = "Ellina,Kuznetcova,iOS,Swift,Objective-C,software development,developer"
 
 ## Social Accounts
 [params.social]
 github = "EllinaKuznetcova"
-instagram = "lilluellu"
+instagram = "ellinacodes"
 medium = "ellinakuznetcova"
 linkedin = "ellinakuznetcova"
-twitter = "lilluellu"
+twitter = "ellinacodes"
 email = "ellina09.19@gmail.com"
+telegram = "ellinacodes"
 resume = "Ellina%20Kuznetcova%27s%20CV.pdf"
 
 ## Extras
